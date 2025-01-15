@@ -7,4 +7,12 @@ export const SIDEBAR_ITEMS = [
     name: "Team Report",
     redirectUrl: "team"
   },
+  {
+    name: "Recap",
+    redirectUrl: "recap"
+  },
+  {
+    name: "Suggested Modules",
+    redirectUrl: "suggest"
+  },
 ]
