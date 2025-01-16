@@ -88,7 +88,7 @@ export const Report = () => {
                 }}
                 data={{
                   labels: ["Month1", "Month2", "Month3", "Month4"],
-                  datasets: Object.entries(graph.data.skill).map(
+                  datasets: Object.entries(graph.data).map(
                     ([key, value], idx) => {
                       return {
                         label: key,
