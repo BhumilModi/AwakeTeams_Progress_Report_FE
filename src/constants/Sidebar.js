@@ -11,8 +11,4 @@ export const SIDEBAR_ITEMS = [
     name: "Recap",
     redirectUrl: "recap"
   },
-  {
-    name: "Suggested Modules",
-    redirectUrl: "suggest"
-  },
 ]
