@@ -28,7 +28,7 @@ export const Sidebar = () => {
             borderRadius="8px"
             px={2}
             py={1}
-            boxShadow="0px 1px 8px rgba(0, 0, 0, 0.2)"
+            boxShadow="0px 0px 8px rgba(0, 0, 0, 0.2)"
             onClick={() => nav(redirect)}
             sx={{
               "&:hover": {

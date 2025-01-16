@@ -1,7 +1,8 @@
 import {Stack, Typography} from "@mui/material";
 import logo from "../assets/ATlogo_RGB.png";
 
-export const Header = () => {
+// eslint-disable-next-line react/prop-types
+export const Header = ({userName}) => {
   return (
     <Stack
       direction="row"
@@ -15,9 +16,9 @@ export const Header = () => {
       bgcolor="#F5F5F5"
     >
       <Stack direction="row" gap={4} alignItems="center">
-        <img width="8%" src={logo} alt="Awake Teams logo" />
+        <img width="7%" src={logo} alt="Awake Teams logo" />
         <Typography variant="h1" color="#3434FF">
-          Progress Report
+          {userName}&apos;s Progress Report
         </Typography>
       </Stack>
       <Typography variant="h2">Session 4</Typography>

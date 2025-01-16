@@ -10,10 +10,9 @@ import {
   Title,
   Tooltip,
 } from "chart.js";
-import {useEffect} from "react";
 import {Line} from "react-chartjs-2";
 import Markdown from "react-markdown";
-import {useNavigate, useParams} from "react-router-dom";
+import {useParams} from "react-router-dom";
 import {REPORT_DATA} from "../constants/dummyReport";
 import {PlotColors} from "../styles/PlotColors";
 
@@ -30,22 +29,13 @@ ChartJS.register(
 );
 
 export const Report = () => {
-  const nav = useNavigate();
+  const {id} = useParams();
 
-  const {teamid, id} = useParams();
+  const report = REPORT_DATA.find(
+    (report) => report.session_info.user_id === id
+  );
 
-  const INDIVIDUAL_GRAPHS = REPORT_DATA.graphs.slice(4);
-
-  useEffect(() => {
-    if (
-      !(
-        teamid === REPORT_DATA.session_info.team_id &&
-        id === REPORT_DATA.session_info.user_id
-      )
-    ) {
-      nav("/");
-    }
-  }, [id, nav, teamid]);
+  const INDIVIDUAL_GRAPHS = report?.graphs.slice(4);
 
   return (
     <Stack
@@ -62,10 +52,10 @@ export const Report = () => {
       alignItems="center"
     >
       <Stack spacing={3} width="80%">
-        <Markdown>{REPORT_DATA.user_analysis}</Markdown>
+        <Markdown>{report?.user_analysis}</Markdown>
       </Stack>
       <Stack direction="row" flexWrap="wrap" width="100%">
-        {INDIVIDUAL_GRAPHS.map((graph, idx) => {
+        {INDIVIDUAL_GRAPHS?.map((graph, idx) => {
           return (
             <Stack key={idx} width="50%" p={3}>
               <Line
@@ -98,7 +88,7 @@ export const Report = () => {
                 }}
                 data={{
                   labels: ["Month1", "Month2", "Month3", "Month4"],
-                  datasets: Object.entries(graph.data.skill).map(
+                  datasets: Object.entries(graph.data).map(
                     ([key, value], idx) => {
                       return {
                         label: key,
