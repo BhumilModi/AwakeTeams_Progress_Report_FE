@@ -21,7 +21,7 @@ export const Header = ({userName}) => {
           {userName}&apos;s Progress Report
         </Typography>
       </Stack>
-      <Typography variant="h2">Session 4</Typography>
+      <Typography variant="h2">Session 1</Typography>
     </Stack>
   );
 };

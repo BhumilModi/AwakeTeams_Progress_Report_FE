@@ -35,11 +35,11 @@ export const Report = () => {
     (report) => report.session_info.user_id === id
   );
 
-  const INDIVIDUAL_GRAPHS = report?.graphs.slice(4);
+  const INDIVIDUAL_GRAPHS = report?.graphs.slice(7);
 
   return (
     <Stack
-      width="85%"
+      width="82%"
       p={3}
       height="90vh"
       overflow="auto"

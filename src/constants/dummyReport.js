@@ -1,7 +1,190 @@
 export const REPORT_DATA = [
   {
     "session_info": {
-      "current_session": 4,
+      "current_session": 1,
+      "total_sessions": 4,
+      "domain": "trust",
+      "team_id": "t17",
+      "user_id": "u79",
+      "user_name": "Angela"
+    },
+    "graphs": [
+      {
+        "name": "Combined Skills",
+        "data": {
+          "trust": [
+            3.1
+          ],
+          "perf": [
+            4.1
+          ],
+          "eng": [
+            4.4
+          ],
+          "coordination": [
+            3.6
+          ],
+          "confe": [
+            2.6
+          ],
+          "conft": [
+            2.0
+          ]
+        }
+      },
+      {
+        "name": "Trust Skills Breakdown",
+        "data": {
+          "Show Yourself": [
+            3.5
+          ],
+          "See Others": [
+            2.8
+          ],
+          "Welcome Divergence": [
+            3.0
+          ],
+          "Reflect": [
+            2.9
+          ],
+          "Include": [
+            3.3
+          ]
+        }
+      },
+      {
+        "name": "Performance Skills Breakdown",
+        "data": {
+          "Agility": [
+            4.3
+          ],
+          "Constructive Conflict": [
+            4.6
+          ],
+          "Innovation": [
+            3.0
+          ],
+          "Belonging": [
+            4.6
+          ],
+          "Productivity": [
+            4.1
+          ]
+        }
+      },
+      {
+        "name": "Engagement Skills Breakdown",
+        "data": {
+          "Commitment": [
+            5.7
+          ],
+          "Pride": [
+            3.7
+          ],
+          "Advocacy": [
+            3.7
+          ],
+          "Dedication": [
+            3.8
+          ],
+          "Involvement": [
+            6.0
+          ]
+        }
+      },
+      {
+        "name": "Coordination Skills Breakdown",
+        "data": {
+          "Competence": [
+            3.7
+          ],
+          "Reliability": [
+            3.7
+          ],
+          "Synergy": [
+            4.0
+          ]
+        }
+      },
+      {
+        "name": "Conflict_expression Skills Breakdown",
+        "data": {
+          "Defensive Behaviors": [
+            1.7
+          ],
+          "Constructive Dialogue": [
+            3.7
+          ],
+          "Active Listening": [
+            3.4
+          ],
+          "Solution Focus": [
+            3.7
+          ],
+          "Negative Interactions": [
+            1.0
+          ],
+          "Avoidance Patterns": [
+            2.0
+          ]
+        }
+      },
+      {
+        "name": "Conflict_type Skills Breakdown",
+        "data": {
+          "Interpersonal Dynamics": [
+            2.1
+          ],
+          "Role Clarity": [
+            1.9
+          ],
+          "Decision Making": [
+            2.3
+          ],
+          "Goal Alignment": [
+            1.8
+          ]
+        }
+      },
+      {
+        "name": "Peer vs Self Ratings",
+        "data": {
+          "Peer Rating": [
+            2.8
+          ],
+          "Self Rating": [
+            4.5
+          ]
+        }
+      },
+      {
+        "name": "Individual Trust Skills",
+        "data": {
+          "Show Yourself": [
+            3.2
+          ],
+          "See Others": [
+            2.3
+          ],
+          "Welcome Divergence": [
+            3.2
+          ],
+          "Reflect": [
+            3.2
+          ],
+          "Include": [
+            2.0
+          ]
+        }
+      }
+    ],
+    "user_analysis": "# Trust Development Overview\nThe individual\u2019s trust-building journey reveals a nuanced relationship with the team's overall trust dynamics. While their capacity to \"Show Yourself\" is somewhat aligned with the team average, their ability to \"See Others\" is notably lower, indicating a significant gap in empathy and understanding relative to team expectations. However, they demonstrate a strong commitment to \"Welcome Divergence\" and \"Reflect,\" suggesting that while they appreciate differing perspectives, they may struggle to fully engage with the viewpoints of others. The \"Include\" metric is particularly telling, as it highlights a robust area for growth, indicating that the individual may not be fully embracing inclusivity within the team context. Over time, their trust behaviors have shown some evolution, particularly in self-disclosure, but there remains substantial work to foster deeper connections with colleagues.\n\n# Engagement, Performance and Coordination Insights\nThe individual's performance trajectory reflects a balance of agility and constructive conflict engagement, suggesting a capacity to adapt and navigate challenges effectively. Their key strengths lie in belonging and productivity, which are evident in their interactions and work outcomes. In terms of engagement, there is a strong sense of commitment and involvement, indicating a high level of dedication to the team's goals, though pride and advocacy seem to be developing areas. Coordination within the team appears stable, with consistent metrics on competence and reliability. However, there is a disparity between their individual patterns and team dynamics, as their self-assessment indicates higher personal satisfaction than reflected in peer ratings, suggesting a potential disconnect in perceived contributions and actual impact.\n\n# Team Conflict Expression and Conflict Type\nThe individual\u2019s approach to conflict expression shows alignment with the team's tendencies, characterized by a preference for constructive dialogue over defensive behaviors. However, the individual\u2019s lower engagement in interpersonal dynamics and role clarity suggests they may not fully address underlying tensions, which can hinder effective resolution. When comparing their conflict expression to the team, it becomes apparent that while they may exhibit a tendency towards avoidance, the team generally engages in more constructive interactions. This dynamic indicates a developing awareness in conflict management, but an opportunity exists for the individual to strengthen their expression and resolution strategies over time.\n\n# Self-Awareness & Growth\nThere is a notable discrepancy between self-perception and peer feedback, with the individual viewing their capabilities more favorably than their colleagues. This suggests a developing self-awareness, as they may not fully recognize the aspects of their contributions that need improvement. Patterns indicate that while they are confident in their abilities, this may not align with how others perceive their engagement and team role. The evolution of their self-awareness is evident in their recognition of personal strengths, yet it remains an area with potential for deeper reflection and understanding of team dynamics and expectations.",
+    "next_module_recommendation": "# Recap\nCurrently, there are no previous suggested modules for the team member, allowing for a fresh start in addressing development needs with tailored micromodules. This provides an opportunity to carefully select from the available modules based on the current performance metrics.\n\n# Development Focus\nThe key area needing improvement involves enhancing collaboration and communication among team members. This includes building trust, actively listening to others, providing constructive feedback, and integrating diverse perspectives into discussions. Strengthening these skills will facilitate a more cohesive working environment and improve overall team performance.\n\n# Recommended Modules\n1. **All Trust Modules**: This comprehensive module provides foundational insights into building and maintaining trust within teams. Trust is crucial for effective collaboration and communication, making this a primary focus area.\n\n2. **Engage Curiosity**: Encouraging a mindset of curiosity helps team members to ask questions and seek to understand each other better, which is essential for open communication and fostering collaboration.\n\n3. **Listen Mindfully**: Active listening is critical for effective communication. This module will help team members become more attuned to others' viewpoints and enhance their responsiveness during interactions.\n\n4. **Offer Constructive Feedback**: Providing feedback that is constructive and supportive can significantly improve team dynamics and personal growth. This module focuses on how to deliver feedback in a way that encourages development rather than defensiveness.\n\n5. **Include All Voices**: This module emphasizes the importance of ensuring every team member feels heard and valued, fostering a culture of inclusion that can lead to richer discussions and more innovative solutions.\n\n6. **Support Teammates**: Fostering a supportive environment is vital for team morale and collaboration. This module focuses on how to proactively offer help and encouragement to colleagues.\n\n7. **Get Perspective**: Understanding different viewpoints is essential for effective teamwork. This module assists team members in gaining and integrating perspectives from diverse backgrounds and experiences.\n\nBy focusing on these modules, the team member can develop the necessary skills to enhance collaboration and communication, ultimately improving team performance.",
+    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team indicate a developing landscape where trust is present but not fully realized. The dimension \"Show Yourself\" emerges as a stronger area, suggesting that team members are somewhat willing to share their thoughts and feelings. However, the dimensions of \"See Others\" and \"Reflect\" indicate more significant opportunities for growth, as they suggest that team members may struggle to appreciate differing perspectives and engage in introspective practices. Over time, trust dynamics have shown a gradual improvement, moving from a lower baseline towards a more collaborative atmosphere, yet there remains a notable gap in the team's ability to fully embrace vulnerability and openness.\n\n# Performance and Team Capabilities\nThe team's core performance strengths lie in their agility and constructive conflict handling, indicating a robust capacity to adapt and engage in discussions that can lead to improved outcomes. However, the area of innovation is developing and indicates untapped potential, suggesting that the team may not be fully leveraging their creative capabilities. The connection between performance patterns and team dynamics reveals that while the team can navigate challenges effectively, the underlying trust issues may hinder their ability to innovate and fully engage in constructive conflict, thereby limiting their overall performance.\n\n# Engagement and Collective Energy\nThe team's engagement patterns reflect a strong commitment and a noticeable level of involvement, indicating that members are generally dedicated to their roles. However, pride and advocacy are areas where the team shows signs of being less engaged, suggesting that while team members are involved, they may not feel fully connected to the team's mission or proud of their contributions. This disparity highlights a complex relationship between engagement and other metrics, where high involvement does not necessarily translate to strong emotional investment in the team's goals and achievements.\n\n# Coordination and Team Synergy\nThe evaluation of the team's coordination reveals a developing level of competence and reliability, with synergy being a relatively stronger aspect. This suggests that while team members can work together, there may still be inconsistencies in their ability to depend on one another fully. The relationship between coordination and other metrics indicates that improved trust could enhance coordination efforts, as members may feel more inclined to collaborate effectively when they perceive higher levels of trust within the team.\n\n# Team Conflict Expression and Conflict Type\nThe overall conflict expression patterns show a tendency toward defensive behaviors and avoidance, indicating that team members may be hesitant to engage in open dialogue about conflicts. The types of conflict, particularly interpersonal dynamics and role clarity, are areas of significant concern, suggesting that misunderstandings may arise due to unclear expectations. The evolution of conflict expression patterns over time has shown a slight shift towards more constructive dialogue, but the ongoing reliance on avoidance and defensive behaviors may continue to inhibit effective resolution of conflicts.\n\n# Holistic Team Insights\nKey patterns across trust, performance, engagement, coordination, conflict expression, and type reveal an interconnected web of team dynamics. The developing trust climate influences performance capabilities, suggesting that as trust strengthens, the potential for innovation and effective conflict resolution may increase. Engagement levels reflect a commitment to the team\u2019s objectives, yet the lack of pride and advocacy indicates an emotional disconnect that could be addressed through improved trust and communication. Coordination is positively influenced by stronger synergy, but reliance on avoidance patterns in conflict may continue to hinder overall team effectiveness. The developmental trajectory of the team suggests a pathway toward increased collaboration and performance, contingent upon addressing the foundational issues of trust and conflict expression."
+  },
+  {
+    "session_info": {
+      "current_session": 1,
       "total_sessions": 4,
       "domain": "trust",
       "team_id": "t17",
@@ -13,22 +196,22 @@ export const REPORT_DATA = [
         "name": "Combined Skills",
         "data": {
           "trust": [
-            5.0,
-            5.1,
-            5.1,
-            5.2
+            3.1
           ],
-          "performance": [
-            4.5,
-            4.6,
-            4.8,
-            5.2
+          "perf": [
+            4.1
           ],
-          "engagement": [
-            5.6,
-            5.8,
-            5.8,
-            5.6
+          "eng": [
+            4.4
+          ],
+          "coordination": [
+            3.6
+          ],
+          "confe": [
+            2.6
+          ],
+          "conft": [
+            2.0
           ]
         }
       },
@@ -36,34 +219,19 @@ export const REPORT_DATA = [
         "name": "Trust Skills Breakdown",
         "data": {
           "Show Yourself": [
-            4.8,
-            5.0,
-            5.1,
-            5.2
+            3.5
           ],
           "See Others": [
-            5.5,
-            5.5,
-            5.5,
-            5.6
+            2.8
           ],
           "Welcome Divergence": [
-            4.9,
-            5.1,
-            5.1,
-            5.3
+            3.0
           ],
           "Reflect": [
-            4.3,
-            4.5,
-            4.5,
-            4.6
+            2.9
           ],
           "Include": [
-            5.3,
-            5.4,
-            5.5,
-            5.5
+            3.3
           ]
         }
       },
@@ -71,240 +239,93 @@ export const REPORT_DATA = [
         "name": "Performance Skills Breakdown",
         "data": {
           "Agility": [
-            5.4,
-            5.5,
-            5.5,
-            5.5
+            4.3
           ],
           "Constructive Conflict": [
-            3.2,
-            3.4,
-            3.9,
             4.6
           ],
           "Innovation": [
-            5.1,
-            5.0,
-            5.2,
-            5.9
+            3.0
           ],
           "Belonging": [
-            4.2,
-            4.0,
-            4.5,
-            4.9
+            4.6
           ],
           "Productivity": [
-            4.5,
-            5.1,
-            5.0,
-            5.2
+            4.1
           ]
         }
       },
       {
         "name": "Engagement Skills Breakdown",
         "data": {
-          "Vigor": [
-            5.4,
-            5.6,
-            5.4,
-            5.2
+          "Commitment": [
+            5.7
+          ],
+          "Pride": [
+            3.7
+          ],
+          "Advocacy": [
+            3.7
           ],
           "Dedication": [
-            6.0,
-            6.1,
-            6.5,
-            6.5
+            3.8
           ],
-          "Absorption": [
-            5.5,
-            5.8,
-            5.6,
-            5.1
-          ]
-        }
-      },
-      {
-        "name": "Peer vs Self Ratings",
-        "data": {
-          "Peer Rating": [
-            4.5,
-            4.6,
-            4.8,
-            4.7
-          ],
-          "Self Rating": [
-            6.0,
-            6.2,
-            5.4,
+          "Involvement": [
             6.0
           ]
         }
       },
       {
-        "name": "Individual Trust Skills",
+        "name": "Coordination Skills Breakdown",
         "data": {
-          "Show Yourself": [
-            4.6,
-            4.7,
-            5.0,
-            4.6
+          "Competence": [
+            3.7
           ],
-          "See Others": [
-            5.6,
-            5.3,
-            5.3,
-            5.1
+          "Reliability": [
+            3.7
           ],
-          "Welcome Divergence": [
-            4.1,
-            4.9,
-            4.9,
-            4.6
-          ],
-          "Reflect": [
-            2.6,
-            3.7,
-            3.7,
-            4.1
-          ],
-          "Include": [
-            5.7,
-            4.6,
-            5.3,
-            5.3
-          ]
-        }
-      }
-    ],
-    "user_analysis": "# Trust Development Overview\nThe individual's trust-building journey reflects a complex interplay between their personal trust skills and team patterns. Notably, they demonstrate a strong capacity in areas such as \"See Others\" and \"Include,\" where their self-assessments have consistently been higher than the team metrics, indicating a robust sense of inclusivity and recognition of others. Conversely, their skills in \"Reflect\" have shown less development relative to both personal and team metrics, suggesting a potential area for growth, particularly in understanding and incorporating feedback from peers.\n\nOver time, the individual's trust behaviors have evolved, particularly in the \"Show Yourself\" domain, where there has been a noticeable upward trend, aligning more closely with team expectations. However, \"Welcome Divergence\" appears to be an area of inconsistency, with less pronounced growth, indicating a need for further exploration of how they embrace differing perspectives within the team context.\n\n# Performance & Engagement Insights\nThe individual's performance trajectory showcases a solid foundation, particularly in \"Agility\" and \"Innovation,\" where they exhibit strong capabilities that align well with team dynamics. Their consistent performance in these areas suggests a reliable contribution to team outcomes, reflecting a capacity to adapt and generate creative solutions effectively.\n\nEngagement patterns reveal a high level of dedication, with their commitment to their work being a defining characteristic. This dedication is mirrored in their vigor, which, while slightly variable, remains generally strong. The individual's engagement appears to manifest in proactive participation and a drive to contribute meaningfully to team efforts. When compared to team dynamics, their engagement levels are notably higher, which may serve as a motivational factor for their peers.\n\n# Self-Awareness & Growth\nThe analysis of self-perception versus peer feedback indicates a significant alignment in some areas, particularly where they see themselves as contributors to the team. However, there exists a disparity in the \"Constructive Conflict\" domain, where self-assessments suggest a higher confidence in their abilities than reflected in peer ratings. This discrepancy highlights an ongoing development in self-awareness regarding how their approach to conflict is perceived by others.\n\nPatterns in their self-assessment reveal a tendency to view their capabilities as stronger than those recognized by peers, particularly in areas requiring collaborative reflection. While their self-awareness has shown development over time, particularly regarding their strengths, there remains room for growth in recognizing and addressing areas where perceptions differ, especially in the context of team interactions and the impact of their behaviors on others.",
-    "next_module_recommendation": "# Recap\n1. **Show Up Fully** (mt011): This micromodule focuses on the importance of being present and authentic in interactions, encouraging individuals to engage more deeply with their environment and teammates.\n2. **Intention and Impact** (mt041): This module emphasizes understanding the link between one\u2019s intentions and the impact they have on others, promoting self-awareness and effective communication.\n3. **Include All Voices** (mt050): This micromodule highlights the importance of ensuring that all team members feel heard and valued in discussions, fostering an inclusive environment.\n4. **Intro to Trust** (mt000): This foundational module introduces the concept of trust and its critical role in team dynamics, setting the stage for deeper dives into trust-building behaviors.\n5. **Bring Whole Self** (mt010): This module encourages individuals to bring their complete selves to work, promoting authenticity and deeper connections with colleagues.\n6. **Trust Summary** (mt990): This module summarizes key concepts related to trust, reinforcing the importance of trust in team interactions and relationships.\n\n# Development Focus\nThe key area needing improvement lies in the skill of reflection and self-awareness. This involves not only recognizing one's own behaviors and their impact on others but also fostering a deeper understanding of how to integrate feedback effectively. A lower score in reflection indicates a potential gap in the ability to critically evaluate personal actions and their consequences within team dynamics. Addressing this area would enhance interpersonal relationships and promote a more cohesive team environment.\n\n# Recommended Modules\n1. **Reflect** (mt040): This module directly addresses the need for self-reflection by guiding individuals through processes that enhance their ability to evaluate their actions and understand their effects on the team. It emphasizes the importance of taking time to think critically about experiences and interactions.\n  \n2. **Accept and Integrate Feedback** (mc051): This micromodule focuses on cultivating a mindset that values feedback as a tool for growth. It teaches strategies for integrating feedback into personal development, which is crucial for improving self-awareness and reflective practices.\n\n3. **Work with Unconscious Bias** (mt031): This module helps participants recognize and address biases that may affect their interactions and reflections. Understanding these biases can lead to more thoughtful and constructive self-reflection and interpersonal dynamics.\n\n4. **Invite and Create Together** (mc040): This micromodule promotes collaboration and encourages team members to actively involve each other in discussions, which can enhance reflective practices by incorporating diverse perspectives and insights",
-    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team reflect a moderate to strong level of interpersonal trust. The dimensions of \"See Others\" and \"Include\" indicate that team members feel a consistent sense of connection and acceptance, suggesting that individuals are recognized and valued within the group. However, areas such as \"Show Yourself\" and \"Welcome Divergence\" appear to be developing, indicating that while there is a foundation of trust, there may be hesitance in fully expressing oneself or embracing differing viewpoints. Over time, trust dynamics have shown a gradual improvement, indicating a positive trajectory. The team has demonstrated a commitment to enhancing their trust levels, as evidenced by the incremental gains in trust scores across sessions.\n\n# Performance & Team Capabilities\nThe team's core performance strengths are evident in areas such as \"Agility,\" which suggests a capacity for responsiveness and adaptability to changing circumstances. The consistency in performance metrics indicates a stable capability to deliver results, particularly in \"Innovation.\" However, the area of \"Constructive Conflict\" shows potential for growth, as it remains comparatively lower, suggesting that the team could benefit from enhancing its ability to engage in healthy debate and discussion. The connection between performance patterns and team dynamics is noteworthy; teams with higher trust levels often exhibit stronger performance outcomes, implying that fostering a trusting environment could further elevate overall performance.\n\n# Engagement & Collective Energy\nThe engagement patterns within the team suggest a generally high level of commitment, particularly in areas such as \"Dedication.\" Team members appear to be passionate about their work, reflecting a strong investment in their roles. However, fluctuations in \"Absorption\" reveal that while enthusiasm is present, there may be periods where team members feel less immersed in their tasks. This variability indicates a nuanced relationship between engagement levels and the overall effectiveness of team dynamics. A consistent engagement profile can lead to enhanced productivity, suggesting that maintaining engagement is critical for sustaining team performance.\n\n# Holistic Team Insights\nSynthesis of the patterns across trust, performance, and engagement reveals a holistic view of the team's dynamics. Trust appears to be a foundational element that influences performance capabilities and engagement levels. Stronger trust dimensions correlate with higher performance outcomes, while areas in need of development in trust directly impact engagement and absorption levels. The developmental trajectory of the team indicates a positive progression, characterized by gradual improvements in trust and performance metrics. Overall, the interplay between these factors suggests that bolstering trust could create a more engaged and high-performing team environment."
-  },
-  {
-    "session_info": {
-      "current_session": 4,
-      "total_sessions": 4,
-      "domain": "trust",
-      "team_id": "t17",
-      "user_id": "u81",
-      "user_name": "Angela"
-    },
-    "graphs": [
-      {
-        "name": "Combined Skills",
-        "data": {
-          "trust": [
-            5.0,
-            5.1,
-            5.1,
-            5.2
-          ],
-          "performance": [
-            4.5,
-            4.6,
-            4.8,
-            5.2
-          ],
-          "engagement": [
-            5.6,
-            5.8,
-            5.8,
-            5.6
+          "Synergy": [
+            4.0
           ]
         }
       },
       {
-        "name": "Trust Skills Breakdown",
+        "name": "Conflict_expression Skills Breakdown",
         "data": {
-          "Show Yourself": [
-            4.8,
-            5.0,
-            5.1,
-            5.2
+          "Defensive Behaviors": [
+            1.7
           ],
-          "See Others": [
-            5.5,
-            5.5,
-            5.5,
-            5.6
+          "Constructive Dialogue": [
+            3.7
           ],
-          "Welcome Divergence": [
-            4.9,
-            5.1,
-            5.1,
-            5.3
+          "Active Listening": [
+            3.4
           ],
-          "Reflect": [
-            4.3,
-            4.5,
-            4.5,
-            4.6
+          "Solution Focus": [
+            3.7
           ],
-          "Include": [
-            5.3,
-            5.4,
-            5.5,
-            5.5
+          "Negative Interactions": [
+            1.0
+          ],
+          "Avoidance Patterns": [
+            2.0
           ]
         }
       },
       {
-        "name": "Performance Skills Breakdown",
+        "name": "Conflict_type Skills Breakdown",
         "data": {
-          "Agility": [
-            5.4,
-            5.5,
-            5.5,
-            5.5
+          "Interpersonal Dynamics": [
+            2.1
           ],
-          "Constructive Conflict": [
-            3.2,
-            3.4,
-            3.9,
-            4.6
+          "Role Clarity": [
+            1.9
           ],
-          "Innovation": [
-            5.1,
-            5.0,
-            5.2,
-            5.9
+          "Decision Making": [
+            2.3
           ],
-          "Belonging": [
-            4.2,
-            4.0,
-            4.5,
-            4.9
-          ],
-          "Productivity": [
-            4.5,
-            5.1,
-            5.0,
-            5.2
-          ]
-        }
-      },
-      {
-        "name": "Engagement Skills Breakdown",
-        "data": {
-          "Vigor": [
-            5.4,
-            5.6,
-            5.4,
-            5.2
-          ],
-          "Dedication": [
-            6.0,
-            6.1,
-            6.5,
-            6.5
-          ],
-          "Absorption": [
-            5.5,
-            5.8,
-            5.6,
-            5.1
+          "Goal Alignment": [
+            1.8
           ]
         }
       },
@@ -312,16 +333,10 @@ export const REPORT_DATA = [
         "name": "Peer vs Self Ratings",
         "data": {
           "Peer Rating": [
-            4.6,
-            4.9,
-            5.3,
-            5.1
+            2.3
           ],
           "Self Rating": [
-            5.4,
-            6.2,
-            6.2,
-            6.2
+            4.8
           ]
         }
       },
@@ -329,49 +344,34 @@ export const REPORT_DATA = [
         "name": "Individual Trust Skills",
         "data": {
           "Show Yourself": [
-            4.4,
-            5.0,
-            5.3,
-            4.9
+            2.8
           ],
           "See Others": [
-            5.0,
-            5.1,
-            5.7,
-            5.9
+            2.3
           ],
           "Welcome Divergence": [
-            4.1,
-            4.7,
-            5.0,
-            5.0
+            2.3
           ],
           "Reflect": [
-            4.3,
-            4.4,
-            4.7,
-            4.6
+            2.3
           ],
           "Include": [
-            5.0,
-            5.3,
-            5.7,
-            5.0
+            1.7
           ]
         }
       }
     ],
-    "user_analysis": "# Trust Development Overview\nThe individual has shown a notable journey in their trust-building capabilities, demonstrating a strong alignment with the team's overall trust patterns. Their ability to \"Show Yourself\" and \"See Others\" reflects a developing confidence in self-disclosure and empathy, which are crucial for building trust. While their individual ratings in \"Show Yourself\" are somewhat lower than the team's averages, their consistent improvement signals a growing willingness to engage and be vulnerable, which is essential for trust development. \n\nIn contrast, areas such as \"Welcome Divergence\" show potential for growth, as their scores have remained relatively stable and lower compared to both individual and team benchmarks. This suggests that while they are open to diverse perspectives, there is still room to enhance this aspect of their trust-building behavior. Over time, their trust behaviors have evolved positively, indicating a shift towards more proactive engagement with team members and a greater recognition of the value of trust in collaborative efforts.\n\n# Performance & Engagement Insights\nThe individual displays a solid performance trajectory characterized by key strengths, particularly in \"Agility\" and \"Innovation.\" Their ability to adapt and generate creative solutions positions them favorably within the team context. However, there is a noticeable discrepancy in their performance regarding \"Constructive Conflict,\" where their ratings indicate challenges in navigating disagreements constructively. This creates an opportunity for growth in developing skills that can enhance team dynamics and overall performance.\n\nTheir engagement metrics reveal a consistent pattern of high dedication and vigor, suggesting a strong commitment to their work and team objectives. This engagement manifests in their proactive contributions and collaborative efforts, contributing positively to the team's atmosphere. When comparing individual patterns with team dynamics, it\u2019s evident that while they excel in personal engagement, there are areas such as \"Belonging\" where their experiences may not fully align with the team, indicating a potential disconnect that could be explored further.\n\n# Self-Awareness & Growth\nA significant gap exists between the individual's self-perception and peer feedback, with their self-assessment reflecting a higher evaluation of their capabilities compared to their peers' ratings. This discrepancy suggests a potential blind spot in understanding how their behaviors and contributions are perceived by others, particularly in areas like \"Constructive Conflict\" and overall trust-building efforts.\n\nDespite this gap, there are signs of developing self-awareness, particularly in recognizing their strengths in innovation and agility. They are beginning to understand their impact on team performance, which is a positive trend. However, the challenges in \"Welcome Divergence\" and \"Constructive Conflict\" indicate that further growth in self-awareness could enhance their effectiveness in collaborative environments. Recognizing how their peers perceive their contributions will be crucial for their continued development and alignment within the team.",
-    "next_module_recommendation": "# Recap\n1. **Intro to Trust** (mt000): This foundational module introduces the concept of trust in teams and sets the stage for deeper engagement with trust-building practices.\n  \n2. **Show Up Fully** (mt011): Aimed at encouraging individuals to bring their authentic selves to work, this module emphasizes the importance of presence and engagement in team dynamics.\n  \n3. **Intention and Impact** (mt041): This module focuses on aligning one's intentions with the impacts of their actions, fostering awareness of how behavior can affect team trust and collaboration.\n  \n4. **Include All Voices** (mt050): This module teaches strategies for ensuring all team members feel heard and valued, promoting inclusivity which is crucial for trust-building.\n  \n5. **Accept and Integrate Feedback** (mt051): This module helps participants learn how to receive and use feedback constructively, reinforcing a culture of openness and trust within the team.\n  \n6. **Get Perspective** (mt040): This module encourages team members to consider multiple viewpoints, fostering understanding and trust through diverse perspectives.\n  \n7. **Show Interest** (mt020): This module emphasizes the importance of demonstrating curiosity and interest in others, which is key to building strong interpersonal trust.\n\n# Development Focus\nThe key area needing improvement is the ability to reflect and engage deeply with others in a way that fosters greater trust and collaboration. While the team member has shown strength in showing themselves and including others, enhancing the ability to reflect on interactions and the dynamics of the team will significantly improve their effectiveness in building trust. Building this reflective practice is essential for creating a safe and open environment where diverse perspectives are valued and integrated.\n\n# Recommended Modules\n1. **Reflect** (mt040): This module directly addresses the need for enhanced reflective practices. It guides participants in considering their actions and their impacts on team dynamics, thereby fostering a more thoughtful approach to interactions that build trust.\n\n2. **Engage Curiosity** (mt030): This module encourages team members to actively seek understanding and insights from others. By cultivating curiosity, the team member can create richer dialogues that enhance trust and collaboration.\n\n3. **Invite and Create Together** (mc040): This module focuses on collaborative creation and inviting contributions from all team members. It is closely tied to the need for reflection and inclusion, as it promotes an environment where different voices and ideas are appreciated.\n\n4. **Listen Mindfully** (mc020): Mindful listening is crucial for building trust",
-    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team reflect a moderate to strong level of interpersonal trust. The dimensions of \"See Others\" and \"Include\" indicate that team members feel a consistent sense of connection and acceptance, suggesting that individuals are recognized and valued within the group. However, areas such as \"Show Yourself\" and \"Welcome Divergence\" appear to be developing, indicating that while there is a foundation of trust, there may be hesitance in fully expressing oneself or embracing differing viewpoints. Over time, trust dynamics have shown a gradual improvement, indicating a positive trajectory. The team has demonstrated a commitment to enhancing their trust levels, as evidenced by the incremental gains in trust scores across sessions.\n\n# Performance & Team Capabilities\nThe team's core performance strengths are evident in areas such as \"Agility,\" which suggests a capacity for responsiveness and adaptability to changing circumstances. The consistency in performance metrics indicates a stable capability to deliver results, particularly in \"Innovation.\" However, the area of \"Constructive Conflict\" shows potential for growth, as it remains comparatively lower, suggesting that the team could benefit from enhancing its ability to engage in healthy debate and discussion. The connection between performance patterns and team dynamics is noteworthy; teams with higher trust levels often exhibit stronger performance outcomes, implying that fostering a trusting environment could further elevate overall performance.\n\n# Engagement & Collective Energy\nThe engagement patterns within the team suggest a generally high level of commitment, particularly in areas such as \"Dedication.\" Team members appear to be passionate about their work, reflecting a strong investment in their roles. However, fluctuations in \"Absorption\" reveal that while enthusiasm is present, there may be periods where team members feel less immersed in their tasks. This variability indicates a nuanced relationship between engagement levels and the overall effectiveness of team dynamics. A consistent engagement profile can lead to enhanced productivity, suggesting that maintaining engagement is critical for sustaining team performance.\n\n# Holistic Team Insights\nSynthesis of the patterns across trust, performance, and engagement reveals a holistic view of the team's dynamics. Trust appears to be a foundational element that influences performance capabilities and engagement levels. Stronger trust dimensions correlate with higher performance outcomes, while areas in need of development in trust directly impact engagement and absorption levels. The developmental trajectory of the team indicates a positive progression, characterized by gradual improvements in trust and performance metrics. Overall, the interplay between these factors suggests that bolstering trust could create a more engaged and high-performing team environment."
+    "user_analysis": "# Trust Development Overview\nThe individual's journey in building trust demonstrates a stark contrast to the broader team patterns. While the team exhibits a moderate level of trust across various dimensions, the individual appears to be struggling significantly, particularly in the areas of inclusivity and welcoming divergence. These low trust-building skills suggest that the individual may face challenges in fostering a collaborative environment, which is crucial for effective teamwork. Over time, their trust behaviors indicate a tendency to lean towards self-reliance rather than engaging with team members, leading to missed opportunities for deeper connections. This gap between the individual and team trust metrics highlights substantial room for growth, particularly in recognizing the value of diverse perspectives and actively including others in discussions.\n\n# Engagement, Performance and Coordination Insights\nThe individual's performance trajectory reveals strengths in agility and constructive conflict, indicating an ability to navigate challenges effectively and engage in meaningful dialogue. However, their innovation metric suggests a need for further development in creative ideation, which may be impacted by their lower trust metrics. Engagement patterns show a strong commitment to work, but the feelings of pride, advocacy, and dedication are comparatively lower, hinting at potential disconnects in how their contributions are perceived within the team. In terms of team coordination, the individual appears to function reliably but may not fully leverage the synergy of the group. This disconnect between individual performance and team dynamics suggests that while they have solid capabilities, there is potential for greater collaboration and shared success.\n\n# Team Conflict Expression and Conflict Type\nThe individual's approach to conflict expression tends to differ from the team's overall patterns, particularly in how concerns and disagreements are articulated. The team displays a more constructive dialogue, yet the individual leans towards defensive behaviors and avoidance patterns, which can hinder open communication. This misalignment in conflict expression indicates a potential struggle to address interpersonal dynamics effectively, especially when it comes to role clarity and decision-making. Over time, the individual's conflict expression has shown some development, but the persistent use of avoidance suggests a need for deeper exploration of how to engage with conflicts more constructively.\n\n# Self-Awareness & Growth\nThere is a noticeable discrepancy between the individual's self-perception and peer feedback. The individual tends to rate their capabilities significantly higher than their peers do, suggesting a potential blind spot regarding their impact on team dynamics. This difference indicates that while they possess confidence in their skills, there may be a lack of awareness about how their behaviors are perceived by others. However, there are signs of developing self-awareness, particularly in recognizing areas where trust-building could be enhanced. This evolving understanding may lead to improved alignment between self-assessment and peer perceptions as they continue to reflect on their interactions and contributions within the team.",
+    "next_module_recommendation": "# Recap\nCurrently, there are no previous suggested modules to recap. This allows for a fresh start in identifying the most suitable micromodules for the team member's development needs without any prior recommendations influencing the new suggestions.\n\n# Development Focus\nThe primary area needing improvement revolves around enhancing communication and collaboration within the team. Strengthening these skills will not only facilitate better teamwork but also foster an environment where every team member feels valued and heard. By focusing on effective communication techniques, active listening, and inclusive practices, the team member can contribute to a more cohesive and productive work environment.\n\n# Recommended Modules\n1. **Listen Mindfully**  \n   This module emphasizes the importance of active listening in communication. By learning to listen mindfully, the team member can better understand colleagues' perspectives, which is essential for effective collaboration and building trust.\n\n2. **Offer Constructive Feedback**  \n   Providing and receiving feedback is critical for team growth. This module helps team members learn how to give feedback that is not only constructive but also encourages open dialogue, fostering a supportive atmosphere.\n\n3. **Include All Voices**  \n   This module focuses on the importance of inclusivity in discussions. By learning to include diverse perspectives, the team member can ensure that everyone's ideas are valued, which can enhance creativity and team morale.\n\n4. **Build on Ideas**  \n   Learning how to build on others' ideas encourages a collaborative spirit. This module teaches participants how to think collectively and expand upon suggestions, which can lead to innovative solutions and stronger team dynamics.\n\n5. **Create Connection**  \n   This module focuses on establishing meaningful interpersonal connections. By cultivating relationships, the team member can enhance trust and rapport with colleagues, which is vital for effective teamwork.\n\n6. **Engage Curiosity**  \n   Encouraging a mindset of curiosity helps team members to ask questions and seek understanding. This module fosters an environment where inquiry is valued, leading to richer discussions and deeper collaboration.\n\nThese recommended modules collectively address the key area of improvement in communication and collaboration, equipping the team member with essential skills to enhance their effectiveness within the team.",
+    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team indicate a developing landscape where trust is present but not fully realized. The dimension \"Show Yourself\" emerges as a stronger area, suggesting that team members are somewhat willing to share their thoughts and feelings. However, the dimensions of \"See Others\" and \"Reflect\" indicate more significant opportunities for growth, as they suggest that team members may struggle to appreciate differing perspectives and engage in introspective practices. Over time, trust dynamics have shown a gradual improvement, moving from a lower baseline towards a more collaborative atmosphere, yet there remains a notable gap in the team's ability to fully embrace vulnerability and openness.\n\n# Performance and Team Capabilities\nThe team's core performance strengths lie in their agility and constructive conflict handling, indicating a robust capacity to adapt and engage in discussions that can lead to improved outcomes. However, the area of innovation is developing and indicates untapped potential, suggesting that the team may not be fully leveraging their creative capabilities. The connection between performance patterns and team dynamics reveals that while the team can navigate challenges effectively, the underlying trust issues may hinder their ability to innovate and fully engage in constructive conflict, thereby limiting their overall performance.\n\n# Engagement and Collective Energy\nThe team's engagement patterns reflect a strong commitment and a noticeable level of involvement, indicating that members are generally dedicated to their roles. However, pride and advocacy are areas where the team shows signs of being less engaged, suggesting that while team members are involved, they may not feel fully connected to the team's mission or proud of their contributions. This disparity highlights a complex relationship between engagement and other metrics, where high involvement does not necessarily translate to strong emotional investment in the team's goals and achievements.\n\n# Coordination and Team Synergy\nThe evaluation of the team's coordination reveals a developing level of competence and reliability, with synergy being a relatively stronger aspect. This suggests that while team members can work together, there may still be inconsistencies in their ability to depend on one another fully. The relationship between coordination and other metrics indicates that improved trust could enhance coordination efforts, as members may feel more inclined to collaborate effectively when they perceive higher levels of trust within the team.\n\n# Team Conflict Expression and Conflict Type\nThe overall conflict expression patterns show a tendency toward defensive behaviors and avoidance, indicating that team members may be hesitant to engage in open dialogue about conflicts. The types of conflict, particularly interpersonal dynamics and role clarity, are areas of significant concern, suggesting that misunderstandings may arise due to unclear expectations. The evolution of conflict expression patterns over time has shown a slight shift towards more constructive dialogue, but the ongoing reliance on avoidance and defensive behaviors may continue to inhibit effective resolution of conflicts.\n\n# Holistic Team Insights\nKey patterns across trust, performance, engagement, coordination, conflict expression, and type reveal an interconnected web of team dynamics. The developing trust climate influences performance capabilities, suggesting that as trust strengthens, the potential for innovation and effective conflict resolution may increase. Engagement levels reflect a commitment to the team\u2019s objectives, yet the lack of pride and advocacy indicates an emotional disconnect that could be addressed through improved trust and communication. Coordination is positively influenced by stronger synergy, but reliance on avoidance patterns in conflict may continue to hinder overall team effectiveness. The developmental trajectory of the team suggests a pathway toward increased collaboration and performance, contingent upon addressing the foundational issues of trust and conflict expression."
   },
   {
     "session_info": {
-      "current_session": 4,
+      "current_session": 1,
       "total_sessions": 4,
       "domain": "trust",
       "team_id": "t17",
-      "user_id": "u79",
+      "user_id": "u81",
       "user_name": "Anyana"
     },
     "graphs": [
@@ -379,22 +379,22 @@ export const REPORT_DATA = [
         "name": "Combined Skills",
         "data": {
           "trust": [
-            5.0,
-            5.1,
-            5.1,
-            5.2
+            3.1
           ],
-          "performance": [
-            4.5,
-            4.6,
-            4.8,
-            5.2
+          "perf": [
+            4.1
           ],
-          "engagement": [
-            5.6,
-            5.8,
-            5.8,
-            5.6
+          "eng": [
+            4.4
+          ],
+          "coordination": [
+            3.6
+          ],
+          "confe": [
+            2.6
+          ],
+          "conft": [
+            2.0
           ]
         }
       },
@@ -402,34 +402,19 @@ export const REPORT_DATA = [
         "name": "Trust Skills Breakdown",
         "data": {
           "Show Yourself": [
-            4.8,
-            5.0,
-            5.1,
-            5.2
+            3.5
           ],
           "See Others": [
-            5.5,
-            5.5,
-            5.5,
-            5.6
+            2.8
           ],
           "Welcome Divergence": [
-            4.9,
-            5.1,
-            5.1,
-            5.3
+            3.0
           ],
           "Reflect": [
-            4.3,
-            4.5,
-            4.5,
-            4.6
+            2.9
           ],
           "Include": [
-            5.3,
-            5.4,
-            5.5,
-            5.5
+            3.3
           ]
         }
       },
@@ -437,57 +422,93 @@ export const REPORT_DATA = [
         "name": "Performance Skills Breakdown",
         "data": {
           "Agility": [
-            5.4,
-            5.5,
-            5.5,
-            5.5
+            4.3
           ],
           "Constructive Conflict": [
-            3.2,
-            3.4,
-            3.9,
             4.6
           ],
           "Innovation": [
-            5.1,
-            5.0,
-            5.2,
-            5.9
+            3.0
           ],
           "Belonging": [
-            4.2,
-            4.0,
-            4.5,
-            4.9
+            4.6
           ],
           "Productivity": [
-            4.5,
-            5.1,
-            5.0,
-            5.2
+            4.1
           ]
         }
       },
       {
         "name": "Engagement Skills Breakdown",
         "data": {
-          "Vigor": [
-            5.4,
-            5.6,
-            5.4,
-            5.2
+          "Commitment": [
+            5.7
+          ],
+          "Pride": [
+            3.7
+          ],
+          "Advocacy": [
+            3.7
           ],
           "Dedication": [
-            6.0,
-            6.1,
-            6.5,
-            6.5
+            3.8
           ],
-          "Absorption": [
-            5.5,
-            5.8,
-            5.6,
-            5.1
+          "Involvement": [
+            6.0
+          ]
+        }
+      },
+      {
+        "name": "Coordination Skills Breakdown",
+        "data": {
+          "Competence": [
+            3.7
+          ],
+          "Reliability": [
+            3.7
+          ],
+          "Synergy": [
+            4.0
+          ]
+        }
+      },
+      {
+        "name": "Conflict Expression Skills Breakdown",
+        "data": {
+          "Defensive Behaviors": [
+            1.7
+          ],
+          "Constructive Dialogue": [
+            3.7
+          ],
+          "Active Listening": [
+            3.4
+          ],
+          "Solution Focus": [
+            3.7
+          ],
+          "Negative Interactions": [
+            1.0
+          ],
+          "Avoidance Patterns": [
+            2.0
+          ]
+        }
+      },
+      {
+        "name": "Conflict Type Skills Breakdown",
+        "data": {
+          "Interpersonal Dynamics": [
+            2.1
+          ],
+          "Role Clarity": [
+            1.9
+          ],
+          "Decision Making": [
+            2.3
+          ],
+          "Goal Alignment": [
+            1.8
           ]
         }
       },
@@ -495,16 +516,10 @@ export const REPORT_DATA = [
         "name": "Peer vs Self Ratings",
         "data": {
           "Peer Rating": [
-            5.5,
-            5.8,
-            5.6,
-            5.3
+            2.2
           ],
           "Self Rating": [
-            5.2,
-            5.6,
-            5.4,
-            5.6
+            4.4
           ]
         }
       },
@@ -512,40 +527,25 @@ export const REPORT_DATA = [
         "name": "Individual Trust Skills",
         "data": {
           "Show Yourself": [
-            5.4,
-            6.1,
-            5.7,
-            6.0
+            2.8
           ],
           "See Others": [
-            6.0,
-            6.1,
-            5.9,
-            5.4
+            2.5
           ],
           "Welcome Divergence": [
-            5.6,
-            5.6,
-            5.9,
-            5.6
+            1.8
           ],
           "Reflect": [
-            4.9,
-            4.9,
-            4.6,
-            3.9
+            2.3
           ],
           "Include": [
-            5.4,
-            6.1,
-            5.9,
-            5.9
+            1.3
           ]
         }
       }
     ],
-    "user_analysis": "# Trust Development Overview\nThe individual has demonstrated a robust journey in trust-building that notably aligns with team patterns, although there are distinct areas for improvement. In terms of \"Show Yourself,\" their historical performance indicates a strong capability to express themselves openly, surpassing the team's average. Conversely, the \"Reflect\" skill reveals a more pronounced disparity, as their ability to introspect and share vulnerabilities has consistently lagged behind both personal and team averages. This suggests a potential area for growth, as enhancing reflection could bolster overall trust within the team.\n\nNotably, the individual excels in \"See Others\" and \"Include,\" where their skills are on par or even exceed team norms. This reflects an inclusive approach and a keen awareness of others' contributions, fostering a collaborative environment. Over time, their trust behaviors have evolved, particularly in inclusivity, which has shown a positive trajectory, indicating a growing commitment to building connections within the team.\n\n# Performance & Engagement Insights\nThe individual\u2019s performance trajectory is characterized by consistent growth in agility and innovation, which are significant strengths within their role. This aligns well with their engagement metrics, particularly in dedication, where they exhibit a strong commitment to their work. Their engagement patterns suggest a proactive approach to tasks, often manifesting in their ability to navigate challenges with vigor and focus.\n\nWhen compared to team dynamics, the individual\u2019s performance metrics tend to reflect a higher level of agility and innovation, suggesting they are a key driver of forward-thinking initiatives. However, there is a noticeable gap in areas such as constructive conflict, where both individual and team performance indicates room for enhancement. This illustrates a potential disconnect between their innovative capabilities and the team's collective ability to engage in healthy, constructive conflict.\n\n# Self-Awareness & Growth\nThere is a marked alignment between the individual's self-perception and peer feedback, particularly in areas of dedication and inclusion. They tend to view themselves similarly to how their peers perceive them, reflecting a strong understanding of their capabilities. However, in contrast to their peers, they exhibit a more critical view of their reflective skills, suggesting a developing awareness of the need for personal growth in this area.\n\nPatterns indicate that the individual is increasingly aware of their strengths, particularly in agility and innovation, and this awareness is reinforced by positive peer assessments. Yet, there remains a discrepancy in their perception of constructive conflict skills, where they may underestimate their potential to contribute effectively. Overall, their journey of self-awareness has shown progress, particularly in recognizing areas for development, indicating a growing readiness for personal and professional growth.",
-    "next_module_recommendation": "# Recap\n1. **Show Up Fully (mt011)**: This module emphasizes the importance of being present and authentic in team interactions, fostering trust and openness among team members.\n2. **Intention and Impact (mt041)**: Focuses on understanding the difference between one's intentions and the impact those intentions have on others, enhancing self-awareness and empathy.\n3. **Intro to Trust (mt000)**: Provides foundational knowledge about trust within teams, laying the groundwork for deeper engagement with trust-related dynamics.\n4. **Include All Voices (mt050)**: Encourages the practice of ensuring everyone\u2019s opinion is valued and heard, promoting inclusivity in discussions.\n5. **Accept and Integrate Feedback (mc051)**: Teaches how to receive and use feedback effectively, facilitating personal growth and improved team interactions.\n6. **Show Interest (mt020)**: Enhances the ability to engage with others by showing genuine interest, which can lead to stronger relationships and trust within the team.\n7. **Work with Unconscious Bias (mt031)**: Aims to raise awareness of biases that can affect team dynamics, encouraging more equitable and trusting interactions.\n\n# Development Focus\nThe key area needing improvement is the ability to reflect on personal and team dynamics. This includes understanding how one's actions influence others and how to engage in self-examination to foster better relationships and communication. Enhancing reflection skills can lead to improved collaboration and a deeper understanding of both self and colleagues, ultimately strengthening team cohesion and trust.\n\n# Recommended Modules\n1. **Reflect (mt040)**: This module directly addresses the need for self-reflection, encouraging participants to examine their behaviors and the consequences these have on team dynamics. By engaging in reflective practices, team members can gain insights that inform better interactions and decision-making.\n2. **Engage Curiosity (mt030)**: This module fosters an environment where team members are encouraged to ask questions and seek understanding, promoting a culture of reflection and learning from one another's perspectives.\n3. **Get Perspective (mt040)**: Aimed at helping individuals see situations from multiple viewpoints, this module enhances reflective practices by encouraging team members to consider how their actions and decisions affect others.\n4. **Invite and Create Together (mc040)**: This module emphasizes collaborative reflection and co-creation within the team, encouraging members to share their insights and learn from each other, thereby enhancing overall team trust and engagement.",
-    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team reflect a moderate to strong level of interpersonal trust. The dimensions of \"See Others\" and \"Include\" indicate that team members feel a consistent sense of connection and acceptance, suggesting that individuals are recognized and valued within the group. However, areas such as \"Show Yourself\" and \"Welcome Divergence\" appear to be developing, indicating that while there is a foundation of trust, there may be hesitance in fully expressing oneself or embracing differing viewpoints. Over time, trust dynamics have shown a gradual improvement, indicating a positive trajectory. The team has demonstrated a commitment to enhancing their trust levels, as evidenced by the incremental gains in trust scores across sessions.\n\n# Performance & Team Capabilities\nThe team's core performance strengths are evident in areas such as \"Agility,\" which suggests a capacity for responsiveness and adaptability to changing circumstances. The consistency in performance metrics indicates a stable capability to deliver results, particularly in \"Innovation.\" However, the area of \"Constructive Conflict\" shows potential for growth, as it remains comparatively lower, suggesting that the team could benefit from enhancing its ability to engage in healthy debate and discussion. The connection between performance patterns and team dynamics is noteworthy; teams with higher trust levels often exhibit stronger performance outcomes, implying that fostering a trusting environment could further elevate overall performance.\n\n# Engagement & Collective Energy\nThe engagement patterns within the team suggest a generally high level of commitment, particularly in areas such as \"Dedication.\" Team members appear to be passionate about their work, reflecting a strong investment in their roles. However, fluctuations in \"Absorption\" reveal that while enthusiasm is present, there may be periods where team members feel less immersed in their tasks. This variability indicates a nuanced relationship between engagement levels and the overall effectiveness of team dynamics. A consistent engagement profile can lead to enhanced productivity, suggesting that maintaining engagement is critical for sustaining team performance.\n\n# Holistic Team Insights\nSynthesis of the patterns across trust, performance, and engagement reveals a holistic view of the team's dynamics. Trust appears to be a foundational element that influences performance capabilities and engagement levels. Stronger trust dimensions correlate with higher performance outcomes, while areas in need of development in trust directly impact engagement and absorption levels. The developmental trajectory of the team indicates a positive progression, characterized by gradual improvements in trust and performance metrics. Overall, the interplay between these factors suggests that bolstering trust could create a more engaged and high-performing team environment."
+    "user_analysis": "# Trust Development Overview\nThe individual's trust-building journey reveals a notable contrast when compared to the broader team patterns. While the team demonstrates moderate levels of trust across various dimensions, the individual exhibits significantly lower trust-building skills, particularly in areas such as inclusion and welcoming divergence. This disparity indicates that the individual has substantial room for growth in fostering trust within the team environment. Areas of strength include the ability to show oneself, where they perform slightly better than the team average, suggesting a potential for openness that can be harnessed. However, the individual's trust behaviors appear to have remained relatively static over time, indicating a need for targeted development to enhance their engagement in team trust-building efforts.\n\n# Engagement, Performance and Coordination Insights\nThe individual's performance trajectory indicates strong capabilities in agility, constructive conflict, and belonging, which are crucial for effective teamwork. Their engagement patterns reflect a high level of commitment and involvement, showcasing a dedication to their work. This engagement manifests through their proactive approach and willingness to contribute, although pride and advocacy are areas where they may not feel as strongly connected. When evaluating team coordination, the individual shows competence and reliability, although these attributes align slightly lower than team averages in synergy. This suggests that while they are dependable, there may be opportunities to improve their collaborative effectiveness in relation to the team dynamics.\n\n# Team Conflict Expression and Conflict Type\nThe alignment between conflict types and the individual's expression of concerns reveals a tendency to engage in less constructive dialogue compared to the overall team. The individual\u2019s approach to conflict expression is characterized by defensive behaviors and avoidance patterns, which diverge from the team's more collaborative tendencies. This indicates a potential disconnect between their willingness to engage in open discussions and the team's culture of constructive conflict resolution. Over time, the individual\u2019s conflict expression appears to have evolved to include some degree of constructive dialogue, yet it remains significantly less developed than the team\u2019s collective approach, highlighting an area for continued growth.\n\n# Self-Awareness & Growth\nThe analysis of self-perception versus peer feedback indicates a pronounced discrepancy; the individual rates themselves significantly higher than their peers perceive them. This misalignment suggests a lack of awareness regarding how their contributions and behaviors are viewed by others. While the individual shows some understanding of their capabilities, this self-assessment does not fully resonate with the feedback from their teammates. However, there are indications of developing self-awareness, particularly in recognizing the importance of trust and collaboration within the team context. The journey towards greater self-awareness is ongoing, with potential for deeper insights into how their actions impact team dynamics and relationships.",
+    "next_module_recommendation": "# Recap\nNo previous suggested modules have been provided.\n\n# Development Focus\nThe team member currently requires improvement in their communication and collaboration skills. This encompasses the ability to actively listen, provide and receive constructive feedback, and engage others in meaningful dialogue. Enhancing these skills will foster better teamwork, ensure all voices are heard, and contribute to a more trusting and inclusive team environment.\n\n# Recommended Modules\n1. **Listen Mindfully**\n   - This module focuses on developing active listening skills, allowing the team member to fully understand and appreciate others' perspectives. Improved listening will enhance communication and collaboration within the team.\n\n2. **Offer Constructive Feedback**\n   - This module teaches how to provide feedback that is helpful and supportive. Learning this skill will empower the team member to contribute positively to team dynamics and encourage a culture of continuous improvement.\n\n3. **Accept and Integrate Feedback**\n   - This module emphasizes the importance of receiving feedback constructively. It will help the team member to grow from others' insights, fostering a growth mindset and enhancing their collaborative efforts.\n\n4. **Create Connection**\n   - This module focuses on building rapport and trust among team members. It will help the team member to establish stronger relationships, which is crucial for effective teamwork.\n\n5. **Invite and Create Together**\n   - This module encourages collaborative problem-solving and co-creation among team members. It will enhance the team member\u2019s ability to engage others in discussions and generate collective solutions.\n\n6. **Include All Voices**\n   - This module addresses the importance of inclusivity in discussions and decision-making processes. It will help the team member recognize the value of diverse perspectives and ensure that everyone feels heard and valued.\n\nBy engaging in these recommended modules, the team member will strengthen their communication skills, build trust within the team, and foster a collaborative work environment.",
+    "team_analysis": "# Trust Dynamics Overview\nThe overall trust patterns within the team indicate a developing landscape where trust is present but not fully realized. The dimension \"Show Yourself\" emerges as a stronger area, suggesting that team members are somewhat willing to share their thoughts and feelings. However, the dimensions of \"See Others\" and \"Reflect\" indicate more significant opportunities for growth, as they suggest that team members may struggle to appreciate differing perspectives and engage in introspective practices. Over time, trust dynamics have shown a gradual improvement, moving from a lower baseline towards a more collaborative atmosphere, yet there remains a notable gap in the team's ability to fully embrace vulnerability and openness.\n\n# Performance and Team Capabilities\nThe team's core performance strengths lie in their agility and constructive conflict handling, indicating a robust capacity to adapt and engage in discussions that can lead to improved outcomes. However, the area of innovation is developing and indicates untapped potential, suggesting that the team may not be fully leveraging their creative capabilities. The connection between performance patterns and team dynamics reveals that while the team can navigate challenges effectively, the underlying trust issues may hinder their ability to innovate and fully engage in constructive conflict, thereby limiting their overall performance.\n\n# Engagement and Collective Energy\nThe team's engagement patterns reflect a strong commitment and a noticeable level of involvement, indicating that members are generally dedicated to their roles. However, pride and advocacy are areas where the team shows signs of being less engaged, suggesting that while team members are involved, they may not feel fully connected to the team's mission or proud of their contributions. This disparity highlights a complex relationship between engagement and other metrics, where high involvement does not necessarily translate to strong emotional investment in the team's goals and achievements.\n\n# Coordination and Team Synergy\nThe evaluation of the team's coordination reveals a developing level of competence and reliability, with synergy being a relatively stronger aspect. This suggests that while team members can work together, there may still be inconsistencies in their ability to depend on one another fully. The relationship between coordination and other metrics indicates that improved trust could enhance coordination efforts, as members may feel more inclined to collaborate effectively when they perceive higher levels of trust within the team.\n\n# Team Conflict Expression and Conflict Type\nThe overall conflict expression patterns show a tendency toward defensive behaviors and avoidance, indicating that team members may be hesitant to engage in open dialogue about conflicts. The types of conflict, particularly interpersonal dynamics and role clarity, are areas of significant concern, suggesting that misunderstandings may arise due to unclear expectations. The evolution of conflict expression patterns over time has shown a slight shift towards more constructive dialogue, but the ongoing reliance on avoidance and defensive behaviors may continue to inhibit effective resolution of conflicts.\n\n# Holistic Team Insights\nKey patterns across trust, performance, engagement, coordination, conflict expression, and type reveal an interconnected web of team dynamics. The developing trust climate influences performance capabilities, suggesting that as trust strengthens, the potential for innovation and effective conflict resolution may increase. Engagement levels reflect a commitment to the team\u2019s objectives, yet the lack of pride and advocacy indicates an emotional disconnect that could be addressed through improved trust and communication. Coordination is positively influenced by stronger synergy, but reliance on avoidance patterns in conflict may continue to hinder overall team effectiveness. The developmental trajectory of the team suggests a pathway toward increased collaboration and performance, contingent upon addressing the foundational issues of trust and conflict expression."
   }
 ]
