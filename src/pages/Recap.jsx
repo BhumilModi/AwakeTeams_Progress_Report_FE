@@ -12,7 +12,7 @@ export const Recap = () => {
 
   return (
     <Stack
-      width="85%"
+      width="82%"
       p={3}
       height="90vh"
       overflow="auto"

@@ -16,6 +16,14 @@ export const PlotColors = [
     backgroundColor: "#9013FE40",
   },
   {
+    borderColor: "#D0021B",
+    backgroundColor: "#D0021B40"
+  },
+  {
+    borderColor: "#50E3C2",
+    backgroundColor: "#50E3C240"
+  },
+  {
     borderColor: "#9B9B9B",
     backgroundColor: "#9B9B9B40",
   }

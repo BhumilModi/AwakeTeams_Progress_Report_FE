@@ -1,14 +1,18 @@
 export const SIDEBAR_ITEMS = [
+  // {
+  //   name: "My Overview",
+  //   redirectUrl: ""
+  // },
   {
-    name: "Individual Report",
+    name: "My Progress Path",
     redirectUrl: ""
   },
   {
-    name: "Team Report",
+    name: "Team Snapshot",
     redirectUrl: "team"
   },
   {
-    name: "Recap",
+    name: "Catch-up & What's Next?",
     redirectUrl: "recap"
   },
 ]

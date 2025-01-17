@@ -9,7 +9,7 @@ export const Sidebar = () => {
 
   return (
     <Stack
-      width="15%"
+      width="18%"
       height="91vh"
       p={2}
       py={4}
